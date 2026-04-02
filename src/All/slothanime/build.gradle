@@ -1,8 +1,0 @@
-ext {
-    extName = 'slothanime'
-    extClass = '.SlothAnime'
-    extVersionCode = 1
-    pkgNameSuffix = 'all.slothanime'
-}
-
-apply from: "$rootDir/common.gradle"
